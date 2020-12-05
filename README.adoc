@@ -1,0 +1,17 @@
+= Iosevka: haba-customized
+
+* No ligatures!
+* Based on Default Iosevka.
+* Wide as Fira Mono or Hack.
+* Make distinct russian letter `З` and digit `3` and letter `Э`.
+* `l` is flat tailed
+* `r` is serifed
+* `k` is without loop in italicand
+
+image::https://user-images.githubusercontent.com/234774/101245150-ddd06980-371b-11eb-9c5f-e006ff4baeeb.png[]
+
+
+To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use the `private-build-plans.toml` from the repo.
+
+
+Command to build: `npm run build -- ttf::iosevka-habamax`

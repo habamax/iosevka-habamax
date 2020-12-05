@@ -1,0 +1,46 @@
+[buildPlans.iosevka-habamax]
+family      = "Iosevka Habamax"
+spacing     = "term"
+no-ligation = true
+serifs      = "sans"
+
+
+[buildPlans.iosevka-habamax.variants.design]
+three    = 'flattop'
+four     = 'open-non-crossing'
+six      = 'open-contour'
+nine     = 'open-contour'
+asterisk = 'hexlow'
+percent  = 'rings-connected'
+paren    = 'large-contour'
+bar      = 'force-upright'
+l        = 'serifed-flat-tailed'
+r        = 'serifed'
+
+
+[buildPlans.iosevka-habamax.variants.italic]
+k = 'straight'
+r = 'top-serifed'
+
+
+[buildPlans.iosevka-habamax.weights.regular]
+shape = 400  # Weight for glyph shapes
+menu  = 400  # Weight for menu name
+css   = 400  # Weight for webfont CSS
+
+
+[buildPlans.iosevka-habamax.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
+
+
+[buildPlans.iosevka-habamax.slopes]
+upright = "normal"
+italic  = "italic"
+
+
+[buildPlans.iosevka-habamax.widths.normal]
+shape = 600
+menu  = 5
+css   = "normal"
