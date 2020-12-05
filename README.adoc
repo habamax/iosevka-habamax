@@ -6,7 +6,7 @@
 * Make distinct russian letter `З` and digit `3` and letter `Э`.
 * `l` is flat tailed
 * `r` is serifed
-* `k` is without loop in italicand
+* `k` is without loop in italic
 
 image::https://user-images.githubusercontent.com/234774/101245150-ddd06980-371b-11eb-9c5f-e006ff4baeeb.png[]
 
