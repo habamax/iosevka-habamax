@@ -6,19 +6,24 @@ serifs      = "sans"
 
 
 [buildPlans.iosevka-habamax.variants.design]
-three    = 'flattop'
-four     = 'open-non-crossing'
-six      = 'open-contour'
-nine     = 'open-contour'
-asterisk = 'hexlow'
-percent  = 'rings-connected'
-paren    = 'large-contour'
-bar      = 'force-upright'
-l        = 'serifed-flat-tailed'
-r        = 'serifed'
+three     = 'flattop'
+four      = 'open-non-crossing'
+six       = 'open-contour'
+nine      = 'open-contour'
+asterisk  = 'hexlow'
+percent   = 'rings-connected'
+paren     = 'large-contour'
+bar       = 'force-upright'
+f         = 'flat-hook'
+j         = 'flat-hook-serifed'
+g         = 'singlestorey-flat-hook'
+t         = 'flat-hook'
+l         = 'serifed-flat-tailed'
+r         = 'serifed'
 
 
 [buildPlans.iosevka-habamax.variants.italic]
+f = 'flat-hook-tailed'
 k = 'straight'
 r = 'top-serifed'
 
