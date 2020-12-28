@@ -4,11 +4,13 @@
 * No ligatures!
 * Wide as Fira Mono or Hack.
 * Make distinct russian letter `З` and digit `3` and letter `Э`.
-* `l` is flat tailed.
+* `k` has no loop in italic.
 * `r` is serifed.
-* `k` is without loop in italic.
+* `l` has flat tail.
+* `j` has serifed flat hook.
+* `f`, `g` and `t` have flat hook.
 
-image::https://user-images.githubusercontent.com/234774/101245150-ddd06980-371b-11eb-9c5f-e006ff4baeeb.png[]
+image::https://user-images.githubusercontent.com/234774/103196357-1e736b00-48f5-11eb-9c67-e41ee22cf5f1.png[]
 
 
 To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use `private-build-plans.toml` from the repo.
