@@ -9,6 +9,7 @@
 * `l` has flat tail.
 * `j` has serifed flat hook.
 * `f`, `g` and `t` have flat hook.
+* `y` has a straight turn in normal and a flat hook in italic
 
 image::https://user-images.githubusercontent.com/234774/103196357-1e736b00-48f5-11eb-9c67-e41ee22cf5f1.png[]
 

@@ -12,7 +12,6 @@ six       = 'open-contour'
 nine      = 'open-contour'
 asterisk  = 'hexlow'
 percent   = 'rings-connected'
-paren     = 'large-contour'
 bar       = 'force-upright'
 f         = 'flat-hook'
 j         = 'flat-hook-serifed'
@@ -20,12 +19,14 @@ g         = 'singlestorey-flat-hook'
 t         = 'flat-hook'
 l         = 'serifed-flat-tailed'
 r         = 'serifed'
+y         = 'straight-turn'
 
 
 [buildPlans.iosevka-habamax.variants.italic]
 f = 'flat-hook-tailed'
 k = 'straight'
 r = 'top-serifed'
+y = 'cursive-flat-hook'
 
 
 [buildPlans.iosevka-habamax.weights.regular]
