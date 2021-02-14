@@ -1,6 +1,7 @@
 [buildPlans.iosevka-habamax]
 family      = "Iosevka Habamax"
 spacing     = "term"
+no-cv-ss    = true
 no-ligation = true
 serifs      = "sans"
 
@@ -10,12 +11,12 @@ three     = 'flattop'
 four      = 'open-non-crossing'
 six       = 'open-contour'
 nine      = 'open-contour'
-asterisk  = 'hexlow'
-percent   = 'rings-connected'
+asterisk  = 'hex-low'
 bar       = 'force-upright'
+percent   = 'rings-continuous-slash'
 f         = 'flat-hook'
 j         = 'flat-hook-serifed'
-g         = 'singlestorey-flat-hook'
+g         = 'single-storey-flat-hook'
 t         = 'flat-hook'
 l         = 'serifed-flat-tailed'
 r         = 'serifed'
