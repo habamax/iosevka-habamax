@@ -10,12 +10,14 @@ serifs      = "sans"
 three     = 'flattop'
 four      = 'open-non-crossing'
 six       = 'open-contour'
+seven     = 'bend-serifless'
 nine      = 'open-contour'
 asterisk  = 'hex-low'
 bar       = 'force-upright'
 percent   = 'rings-continuous-slash'
 f         = 'flat-hook'
 j         = 'flat-hook-serifed'
+i         = 'serifed-flat-tailed'
 g         = 'single-storey-flat-hook'
 t         = 'flat-hook'
 l         = 'serifed-flat-tailed'
@@ -28,6 +30,8 @@ f = 'flat-hook-tailed'
 k = 'straight'
 r = 'top-serifed'
 y = 'cursive-flat-hook'
+i = 'serifed-diagonal-tailed'
+q = 'tailed'
 
 
 [buildPlans.iosevka-habamax.weights.regular]
@@ -48,6 +52,68 @@ italic  = "italic"
 
 
 [buildPlans.iosevka-habamax.widths.normal]
+shape = 600
+menu  = 5
+css   = "normal"
+
+
+
+# Slab variant
+
+[buildPlans.iosevka-habamax-slab]
+family      = "Iosevka Habamax Slab"
+spacing     = "term"
+no-cv-ss    = true
+no-ligation = true
+serifs      = "slab"
+
+
+[buildPlans.iosevka-habamax-slab.variants.design]
+three     = 'flattop'
+four      = 'open-non-crossing'
+six       = 'open-contour'
+seven     = 'bend-serifed'
+nine      = 'open-contour'
+asterisk  = 'hex-low'
+bar       = 'force-upright'
+percent   = 'rings-continuous-slash'
+f         = 'flat-hook-serifed'
+j         = 'flat-hook-serifed'
+i         = 'serifed-flat-tailed'
+g         = 'single-storey-flat-hook'
+t         = 'flat-hook'
+l         = 'serifed-flat-tailed'
+r         = 'serifed'
+y         = 'straight-turn'
+
+
+[buildPlans.iosevka-habamax-slab.variants.italic]
+f = 'flat-hook-tailed'
+k = 'straight'
+r = 'top-serifed'
+y = 'cursive-flat-hook'
+i = 'serifed-diagonal-tailed'
+q = 'tailed'
+
+
+[buildPlans.iosevka-habamax-slab.weights.regular]
+shape = 400  # Weight for glyph shapes
+menu  = 400  # Weight for menu name
+css   = 400  # Weight for webfont CSS
+
+
+[buildPlans.iosevka-habamax-slab.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
+
+
+[buildPlans.iosevka-habamax-slab.slopes]
+upright = "normal"
+italic  = "italic"
+
+
+[buildPlans.iosevka-habamax-slab.widths.normal]
 shape = 600
 menu  = 5
 css   = "normal"
