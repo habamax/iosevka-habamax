@@ -1,10 +1,10 @@
-= Iosevka: haba-customized
+= Iosevka: w  i  d  e
 
 * Customization is based on default stylistic set of https://github.com/be5invis/iosevka[Iosevka].
 * No ligatures!
 * Wide as Fira Mono or Hack.
-* Make distinct russian letter `З` and digit `3` and letter `Э`.
-* `k` has no loop in italic.
+* Make distinct russian letter `З`, digit `3` and letter `Э`.
+* Remove loop from italic `k`.
 
 
 == Sans Serif
