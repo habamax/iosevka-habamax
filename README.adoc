@@ -5,11 +5,7 @@
 * Wide as Fira Mono or Hack.
 * Make distinct russian letter `З` and digit `3` and letter `Э`.
 * `k` has no loop in italic.
-* `r` is serifed.
-* `l` has flat tail.
-* `j` has serifed flat hook.
-* `f`, `g` and `t` have flat hook.
-* `y` has a straight turn in normal and a flat hook in italic
+
 
 == Sans Serif
 
