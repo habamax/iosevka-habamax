@@ -11,11 +11,27 @@
 * `f`, `g` and `t` have flat hook.
 * `y` has a straight turn in normal and a flat hook in italic
 
-image::https://user-images.githubusercontent.com/234774/103196357-1e736b00-48f5-11eb-9c67-e41ee22cf5f1.png[]
+== Sans Serif
 
+image::https://user-images.githubusercontent.com/234774/108621239-987e2700-7442-11eb-8dce-415fb7dd11f7.png[]
+
+image::https://user-images.githubusercontent.com/234774/108621255-adf35100-7442-11eb-9bea-ae6a126f6a86.png[]
+
+image::https://user-images.githubusercontent.com/234774/108621232-8f8d5580-7442-11eb-8272-f5da5b65c7c5.png[]
+
+
+== Slab Serif
+
+image::https://user-images.githubusercontent.com/234774/108621129-d6c71680-7441-11eb-8fbf-c692894927e0.png[]
+
+image::https://user-images.githubusercontent.com/234774/108621185-345b6300-7442-11eb-8f23-a2c95b4c9667.png[]
+
+image::https://user-images.githubusercontent.com/234774/108621160-1a218500-7442-11eb-9d3c-32a02fe10dff.png[]
+
+
+== Build Commands
 
 To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use `private-build-plans.toml` from the repo.
-
 
 Command to build sans-serif version:
 
