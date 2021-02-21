@@ -17,9 +17,16 @@ image::https://user-images.githubusercontent.com/234774/103196357-1e736b00-48f5-
 To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use `private-build-plans.toml` from the repo.
 
 
-Command to build: 
+Command to build sans-serif version:
 
 [source,sh]
 ------------------------------------------------------------------------------
 npm run build -- ttf::iosevka-habamax
+------------------------------------------------------------------------------
+
+Command to build both:
+
+[source,sh]
+------------------------------------------------------------------------------
+npm run build -- ttf::iosevka-habamax ttf::iosevka-habamax-slab
 ------------------------------------------------------------------------------
