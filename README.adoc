@@ -1,5 +1,6 @@
-= Iosevka Extended: 
+= Iosevka Habamax
 
+* W i d e -- as Fira Mono.
 * No ligatures.
 * Make distinct russian letter `З`, digit `3` and letter `Э`.
 * Open non crossing `4`.
@@ -13,7 +14,7 @@ image::https://user-images.githubusercontent.com/234774/115953271-1918dc80-a4f3-
 
 To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use `private-build-plans.toml` from the repo.
 
-Command to build sans-serif version:
+Build command:
 
 [source,sh]
 ------------------------------------------------------------------------------
