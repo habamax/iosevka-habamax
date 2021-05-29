@@ -15,7 +15,7 @@ percent   = 'rings-continuous-slash'
 
 
 [buildPlans.iosevka-habamax.variants.italic]
-k = 'straight'
+k = 'straight-serifless'
 
 
 [buildPlans.iosevka-habamax.weights.regular]
