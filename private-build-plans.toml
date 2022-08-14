@@ -37,9 +37,9 @@ menu = 400
 css = 400
 
 [buildPlans.iosevka-habamax.weights.bold]
-shape = 600
-menu = 600
-css = 600
+shape = 700
+menu = 700
+css = 700
 
 [buildPlans.iosevka-habamax.widths.normal]
 shape = 600
