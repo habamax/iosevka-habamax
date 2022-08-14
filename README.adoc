@@ -4,19 +4,3 @@
 * No ligatures.
 * Make distinct russian letter `З`, digit `3` and letter `Э`.
 * Open non crossing `4`.
-* Remove loop from italic `k`.
-* Bar `|` is forced upright.
-* Percent `%` has continuous slash.
-
-image::https://user-images.githubusercontent.com/234774/115953271-1918dc80-a4f3-11eb-84ca-c2574383c62b.png[]
-
-== Build Commands
-
-To build it, follow https://github.com/be5invis/iosevka#customized-build[Build instructions] and use `private-build-plans.toml` from the repo.
-
-Build command:
-
-[source,sh]
-------------------------------------------------------------------------------
-npm run build -- ttf::iosevka-habamax
-------------------------------------------------------------------------------
