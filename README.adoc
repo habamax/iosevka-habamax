@@ -1,6 +1,0 @@
-= Iosevka Habamax
-
-* W i d e -- as Fira Mono.
-* No ligatures.
-* Make distinct russian letter `З`, digit `3` and letter `Э`.
-* Open non crossing `4`.
