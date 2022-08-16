@@ -19,6 +19,7 @@ no-cv-ss = true
     four = "open-non-crossing"
     number-sign = "upright"
     dollar = "interrupted"
+    ampersand = "upper-open"
 
     [buildPlans.iosevka-habamax.variants.italic]
     a = "single-storey-tailed"
@@ -30,6 +31,7 @@ no-cv-ss = true
     v = "cursive-serifed"
     w = "cursive"
     dollar = "interrupted"
+    ampersand = "upper-open"
 
 [buildPlans.iosevka-habamax.weights.regular]
 shape = 400
