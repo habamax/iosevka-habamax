@@ -11,7 +11,6 @@ no-cv-ss = true
     f = "flat-hook"
     i = "tailed-serifed"
     j = "flat-hook-serifed"
-    m = "short-leg"
     t = "flat-hook"
     v = "straight"
     zero = "slashed"
