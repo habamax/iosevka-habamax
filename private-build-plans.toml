@@ -4,33 +4,33 @@ spacing = "fixed"
 serifs = "sans"
 no-cv-ss = true
 
-  [buildPlans.iosevka-habamax.variants]
-  inherits = "ss05"
+[buildPlans.iosevka-habamax.variants]
+inherits = "ss05"
 
-    [buildPlans.iosevka-habamax.variants.design]
-    f = "flat-hook"
-    i = "tailed-serifed"
-    j = "flat-hook-serifed"
-    t = "flat-hook"
-    v = "straight"
-    zero = "slashed"
-    three = "flat-top"
-    four = "open-non-crossing"
-    number-sign = "upright"
-    dollar = "interrupted"
-    ampersand = "upper-open"
+[buildPlans.iosevka-habamax.variants.design]
+f = "flat-hook"
+i = "tailed-serifed"
+j = "flat-hook-serifed"
+t = "flat-hook"
+v = "straight"
+zero = "slashed"
+three = "flat-top"
+four = "open-non-crossing"
+number-sign = "upright"
+dollar = "interrupted"
+ampersand = "upper-open"
 
-    [buildPlans.iosevka-habamax.variants.italic]
-    a = "single-storey-tailed"
-    f = "serifless"
-    g = "single-storey-serifless"
-    i = "tailed-serifed"
-    j = "serifless"
-    t = "standard"
-    v = "cursive-serifed"
-    w = "cursive"
-    dollar = "interrupted"
-    ampersand = "upper-open"
+[buildPlans.iosevka-habamax.variants.italic]
+a = "single-storey-tailed"
+f = "serifless"
+g = "single-storey-serifless"
+i = "tailed-serifed"
+j = "serifless"
+t = "standard"
+v = "cursive-serifed"
+w = "cursive"
+dollar = "interrupted"
+ampersand = "upper-open"
 
 [buildPlans.iosevka-habamax.weights.regular]
 shape = 400
@@ -58,3 +58,6 @@ angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
+
+[buildPlans.iosevka-habamax.metric-override]
+leading = 1200
