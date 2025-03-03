@@ -5,8 +5,8 @@ Almost default Iosevka:
 
 - Semi-Extended;
 - No ligatures;
-- Low asterisks, straight italic `k`;
-- Make distinct russian letter `З`, digit `3` and letter `Э`.
+- Low asterisks, straight italic ``k``;
+- Make distinct russian letter ``З``, digit ``3`` and letter ``Э``.
 
 .. image:: https://github.com/user-attachments/assets/cb00518e-b376-4d2b-949c-6769bd75e226
 
